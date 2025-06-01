@@ -1,14 +1,104 @@
-<h1 align="center">Hi 👋, I'm Gbariel</h1>
-<h3 align="center">A passionate front-end developer from Spain</h3>
+<!-- PORTADA PROFESIONAL -->
+<div align="center" style="
+  margin-bottom: 40px;
+  border-radius: 15px;
+  overflow: hidden;
+  box-shadow: 0 12px 30px rgba(0,0,0,0.15);
+  max-width: 700px;
+  background: linear-gradient(135deg, #4A90E2 0%, #9013FE 100%);
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 30px 20px;
+">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gersongz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gersongz/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gabriel-sys-cod/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gabriel-sys-cod/" height="30" width="40" /></a>
-</p>
+  <img 
+    src="URL_DE_TU_IMAGEN" 
+    alt="Foto profesional de Gbariel" 
+    style="width: 140px; height: 140px; border-radius: 50%; border: 5px solid white; object-fit: cover; margin-bottom: 20px;" 
+  />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+  <h1 style="margin: 0; font-size: 2.8rem; font-weight: 700; text-shadow: 1px 1px 5px rgba(0,0,0,0.3);">
+    Hi 👋, I'm Gbariel
+  </h1>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/buymeacoffee.com/gabrielsyscod"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/gabrielsyscod" /></a><a href="https://ko-fi.com/https://ko-fi.com/gabrielsyscod"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/gabrielsyscod" /></a></p><br><br>
+  <h3 style="margin: 8px 0 0 0; font-weight: 400; opacity: 0.85; font-size: 1.25rem;">
+    A passionate front-end developer from Spain
+  </h3>
+
+  <p style="margin-top: 25px;">
+    <a href="https://linkedin.com/in/gersongz/" target="_blank" rel="noopener noreferrer" style="
+      display: inline-block;
+      margin: 0 15px;
+      background: white;
+      border-radius: 8px;
+      padding: 10px;
+      box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+    ">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" />
+    </a>
+    <a href="https://www.leetcode.com/gabriel-sys-cod/" target="_blank" rel="noopener noreferrer" style="
+      display: inline-block;
+      margin: 0 15px;
+      background: white;
+      border-radius: 8px;
+      padding: 10px;
+      box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+    ">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="30" height="30" />
+    </a>
+  </p>
+
+</div>
+
+---
+
+## About Me
+
+I'm a dedicated front-end developer focused on creating clean and scalable web apps with modern technologies. Based in Spain, always learning and pushing the limits of UX/UI.
+
+---
+
+## Projects
+
+### [I4G Payment Gateway](https://github.com/GABRIEL-SYS-COD/I4G-Payment-Gateway)  
+A responsive payment gateway UI built with React and Tailwind CSS. Implements best practices in security and UX design.
+
+### [Movie Database App](https://github.com/GABRIEL-SYS-COD/movie-database)  
+An app to browse and search movies using the TMDB API. Features React Router, dynamic search, and detailed movie pages.
+
+### [Portfolio Next.js](https://github.com/GABRIEL-SYS-COD/portfolio-next)  
+My personal portfolio website built with Next.js, styled-components, and deployed on Vercel.
+
+### [React Login Page](https://github.com/GABRIEL-SYS-COD/react-login-page)  
+Simple and clean login page UI using React functional components and hooks.
+
+---
+
+## Experience
+
+*(Puedes añadir aquí tu experiencia laboral, si la tienes. Si no, elimina esta sección)*
+
+---
+
+## Skills & Tools
+
+![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) &nbsp;
+![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) &nbsp;
+![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) &nbsp;
+![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) &nbsp;
+![Tailwind CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg) &nbsp;
+![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg) &nbsp;
+
+---
+
+## Support
+
+If you want to support my work:
+
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/gabrielsyscod)  
+[![Ko-fi](https://cdn.ko-fi.com/cdn/kofi3.png?v=3)](https://ko-fi.com/gabrielsyscod)
+
+---
+
+*Last updated: June 2025*
+
