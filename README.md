@@ -1,74 +1,14 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Matrix rain animation" width="600" />
+<h1 align="center">Hi 👋, I'm Gbariel</h1>
+<h3 align="center">A passionate front-end developer from Spain</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/gersongz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gersongz/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/gabriel-sys-cod/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gabriel-sys-cod/" height="30" width="40" /></a>
 </p>
 
-<h1 align="center" style="color:#0f0;">GABRIEL-SYS-COD</h1>
-<h3 align="center" style="color:#0a0;">Front-End Developer & Code Alchemist</h3>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
----
-
-### 🚀 Proyectos Destacados
-
-| Proyecto                     | Descripción                      | Tecnologías               | Link                                                                 |
-|-----------------------------|--------------------------------|--------------------------|----------------------------------------------------------------------|
-| I4G Payment Gateway          | Pasarela de pagos en React     | React, TailwindCSS       | [Repositorio](https://github.com/GABRIEL-SYS-COD/I4G-Payment-Gateway)|
-| Movie Database App           | App para buscar películas       | React, TMDB API          | [Repositorio](https://github.com/GABRIEL-SYS-COD/movie-database)      |
-| Portfolio Next.js            | Portfolio personal              | Next.js, Styled Components| [Repositorio](https://github.com/GABRIEL-SYS-COD/portfolio-next)      |
-| React Login Page             | Página de login sencilla        | React                    | [Repositorio](https://github.com/GABRIEL-SYS-COD/react-login-page)    |
-
----
-
-### 💼 Experiencia Profesional
-
-- **Front-End Developer** @ Empresa XYZ  
-  *Enero 2023 - Presente*  
-  Desarrollo de interfaces web, optimización de rendimiento y colaboración en equipo Agile.
-
-- **Pasantía** @ Startup ABC  
-  *Junio 2022 - Diciembre 2022*  
-  Desarrollo de componentes reutilizables y testing unitario.
-
----
-
-### 🔗 Contacto
-
-<p align="center">
-  <a href="https://linkedin.com/in/gersongz/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/gabriel-sys-cod/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" alt="LeetCode" width="30" height="30" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:tuemail@dominio.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Email" width="30" height="30" />
-  </a>
-</p>
-
----
-
-### ☕ Apoya mi trabajo
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/gabrielsyscod" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="210" height="50" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://ko-fi.com/gabrielsyscod" target="_blank">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" alt="Ko-fi" width="210" height="50" />
-  </a>
-</p>
-
----
-
-<p align="center" style="color:#0f0; font-family: monospace;">
-  <pre>
-  01001000 01100001 01100011 01101011 01110100 01101000 01100101 00100000
-  01001101 01100001 01110100 01110010 01101001 01111000 00100001
-  </pre>
-</p>
-
-<p align="center" style="color:#0f0; font-family: monospace;">
-  _Keep hacking the matrix!_
-</p>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/buymeacoffee.com/gabrielsyscod"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/gabrielsyscod" /></a><a href="https://ko-fi.com/https://ko-fi.com/gabrielsyscod"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/gabrielsyscod" /></a></p><br><br>
