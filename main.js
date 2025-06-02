@@ -1,16 +1,16 @@
 document.getElementById('contactForm').addEventListener('submit', function(e) {
     e.preventDefault();
     
-    // Get form values
+    // Obtener valores del formulario
     const name = document.getElementById('name').value;
     const email = document.getElementById('email').value;
     const subject = document.getElementById('subject').value;
     const message = document.getElementById('message').value;
     
-    // Here you would typically send this data to your backend
-    console.log('Form submitted:', { name, email, subject, message });
+    // Aquí normalmente enviarías estos datos al backend
+    console.log('Formulario enviado:', { name, email, subject, message });
     
-    // Clear the form
+    // Limpiar el formulario
     this.reset();
-    alert('Thank you for your message! We will get back to you soon.');
+    alert('¡Gracias por tu mensaje! Te responderemos pronto.');
 });
