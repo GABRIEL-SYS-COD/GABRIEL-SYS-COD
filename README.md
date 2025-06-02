@@ -4,10 +4,7 @@
   Specialized in front-end development, with strong skills in web technologies.
 </p>
 
-<div align="center" style="margin-bottom: 20px;">
-  <img src="https://media.giphy.com/media/3o6ZsZCjv6nT6fqfkk/giphy.gif" alt="Database Animation" width="150" style="margin-right: 30px;" />
-  <img src="https://media.giphy.com/media/3o7aD6T6L1IqOR85WQ/giphy.gif" alt="Cybersecurity Animation" width="150" />
-</div>
+
 
 ---
 
@@ -58,3 +55,29 @@
     <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi" />
   </a>
 </p>
+---
+### 🚀 Proyectos Destacados
+
+| Proyecto               | Descripción                                              | Tecnologías                      | Repositorio / Demo                         |
+|-----------------------|----------------------------------------------------------|---------------------------------|-------------------------------------------|
+| **Portfolio Web**     | Página personal para mostrar mis proyectos y habilidades. | HTML, CSS, JavaScript, React    | [GitHub](https://github.com/GABRIEL-SYS-COD/portfolio) |
+| **App de Tareas**     | Aplicación web para gestión eficiente de tareas diarias.  | Vue.js, Firebase, Tailwind CSS  | [GitHub](https://github.com/GABRIEL-SYS-COD/task-app)  |
+| **Juego Puzzle**      | Juego web interactivo para entrenar lógica y concentración.| JavaScript, Canvas API          | [Demo](https://gabriel-sys-cod.github.io/puzzle-game)  |
+
+*Si quieres ver más, visita [mis repositorios](https://github.com/GABRIEL-SYS-COD?tab=repositories)*
+
+---
+
+### 💼 Experiencia Profesional
+
+| Empresa                  | Cargo                      | Periodo          | Responsabilidades Clave                                |
+|--------------------------|----------------------------|------------------|------------------------------------------------------|
+| **Tech Solutions S.L.**  | Front-End Developer        | Ene 2023 - Actual| Desarrollo de interfaces web dinámicas y responsive. |
+| **CyberSafe Corp.**      | Asistente en Ciberseguridad| Jun 2022 - Dic 2022 | Implementación de auditorías y monitorización de redes. |
+| **DataManage Ltd.**      | Analista de Bases de Datos | Ene 2021 - May 2022 | Optimización y mantenimiento de bases de datos SQL. |
+
+---
+
+Si quieres, te puedo ayudar a personalizar más los proyectos y experiencia con descripciones más detalladas o añadir tecnologías específicas.
+¿Quieres?
+
