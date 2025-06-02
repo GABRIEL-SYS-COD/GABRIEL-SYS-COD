@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Matrix rain" width="600"/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Matrix rain animation" width="600" />
 </p>
 
 <h1 align="center" style="color:#0f0;">GABRIEL-SYS-COD</h1>
@@ -7,7 +7,7 @@
 
 ---
 
-### 🚀 Proyectos Destacados
+### 🚀 Proyectos destacados
 
 - [I4G Payment Gateway](https://github.com/GABRIEL-SYS-COD/I4G-Payment-Gateway) — React + TailwindCSS  
 - [Movie Database App](https://github.com/GABRIEL-SYS-COD/movie-database) — React + TMDB API  
