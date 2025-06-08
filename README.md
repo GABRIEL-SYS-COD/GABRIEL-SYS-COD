@@ -1,17 +1,70 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">A passionate front-end developer from Spain</h3>
+<h3 align="center">A passionate front-end developer based in Spain 🇪🇸</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h1 align="center">Hola 👋, soy Gabriel</h1>
+<h3 align="center">Un desarrollador front-end apasionado desde España 🇪🇸</h3>
+
+---
+
+## 🔗 Connect with me / Conecta conmigo:
 <p align="left">
-<a href="https://linkedin.com/in/gersongz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gersongz/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gabriel-sys-cod/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gabriel-sys-cod/" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/gersongz/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.leetcode.com/gabriel-sys-cod/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LeetCode">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/gabrielsyscod"> <img align="left" src="https://cdn.buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/gabrielsyscod" /></a>
-  <a href="https://ko-fi.com/https://ko-fi.com/gabrielsyscod"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/gabrielsyscod" /></a>
+## 💻 Tech Stack / Tecnologías:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+
+---
+
+## 📊 GitHub Stats / Estadísticas:
+![](https://github-readme-stats.vercel.app/api?username=GABRIEL-SYS-COD&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=GABRIEL-SYS-COD&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GABRIEL-SYS-COD&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies / Trofeos de GitHub:
+![](https://github-profile-trophy.vercel.app/?username=GABRIEL-SYS-COD&theme=neon&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+## 🔝 Top Contributed Repo / Repositorio más activo:
+![](https://github-contributor-stats.vercel.app/api?username=GABRIEL-SYS-COD&limit=5&theme=neon&combine_all_yearly_contributions=true)
+
+---
+
+## ✍️ Random Dev Quote / Frase aleatoria para devs:
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+## 👁️ Visitors / Visitas:
+[![](https://visitcount.itsvg.in/api?id=GABRIEL-SYS-COD&icon=9&color=1)](https://visitcount.itsvg.in)
+
+---
+
+## ☕ Support Me / Apóyame:
+<p>
+  <a href="https://www.buymeacoffee.com/gabrielsyscod" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
+  </a>
+  <a href="https://ko-fi.com/gabrielsyscod" target="_blank">
+    <img src="https://img.shields.io/badge/Ko--fi-29abe0?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi">
+  </a>
 </p>
-<br><br>
+
+---
+
+<!-- Proudly created with ❤️ by Gabriel using GPRM (https://gprm.itsvg.in) -->
