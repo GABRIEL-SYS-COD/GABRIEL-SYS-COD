@@ -78,7 +78,7 @@ Colección de formularios interactivos con distintos elementos de entrada.
 Estoy abierto a proyectos, colaboraciones y nuevas experiencias. Puedes contactarme por:
 
 - Email: gerson.cod1001@gmail.com  
-- Teléfono: +34 600 000 000  
+- Teléfono: https://call.whatsapp.com/voice/SRBlpERFfSVjQWI0GmhImB 
 
 ---
 
