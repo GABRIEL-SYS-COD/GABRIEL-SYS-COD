@@ -1,3 +1,4 @@
+<body align="center">
 <p align="center">
   <h1 style="color:#0ff;">👋 Hola, soy Gabriel</h1>
   <h3 style="color:#0ff;">🚀 Desarrollador Full Stack Junior</h3>
@@ -122,5 +123,5 @@
 <h2 align="center" style="color:#0ff; font-size:2.5rem; font-weight:bold;">
   "Conocimiento y creación, un camino sin fin — por Gabriel"
 </h2>
-
+</body>
 
