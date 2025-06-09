@@ -1,73 +1,133 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">A passionate front-end developer based in Spain 🇪🇸</h3>
+<h3 align="center">🚀 Junior Full Stack Developer | Web & Multiplatform Explorer</h3>
 
----
-
-## 🔗 Connect with me:
-<p align="left">
-  <a href="https://linkedin.com/in/gersongz/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.leetcode.com/gabriel-sys-cod/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LeetCode">
-  </a>
+<p align="center">
+  Hello! I'm Gabriel, a passionate developer crafting digital solutions from the heart of Catalonia. I specialize in building modern, responsive web applications with a focus on clean, maintainable code and user-centered design.
 </p>
 
 ---
 
-## 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+## 🧭 About Me
+
+I'm a developer eager to learn and grow, with hands-on experience in both frontend and backend technologies. I thrive in collaborative environments and am always looking for opportunities to contribute to innovative projects.
+
+- 📍 Based in: Vilafranca del Penedès, Catalonia, Spain
+- 🌍 Open to: On-site, Hybrid, or Remote roles
+- 💼 Available for: Full-time, Part-time, Contract, Internship, Temporary
+- 📅 Start date: Flexible — exploring opportunities
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GABRIEL-SYS-COD&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=GABRIEL-SYS-COD&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GABRIEL-SYS-COD&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🔗 Connect with Me
+
+- [LinkedIn](https://linkedin.com/in/gersongz/)
+- [LeetCode](https://www.leetcode.com/gabriel-sys-cod/)
+- [Portfolio](https://gabriel-sys-cod.github.io/principal/)
+- [GitHub](https://github.com/GABRIEL-SYS-COD)
 
 ---
 
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=GABRIEL-SYS-COD&theme=neon&no-frame=false&no-bg=true&margin-w=4)
+## 💻 Tech Stack
+
+**Frontend:**
+
+- HTML5
+- CSS3
+- JavaScript
+- React (Learning in progress)
+
+**Backend:**
+
+- Node.js (Learning in progress)
+- SQL (Learning in progress)
+- Python (Learning in progress)
+
+**Tools:**
+
+- Git (Learning in progress)
+- Docker (Learning in progress)
+- CLI (Learning in progress)
 
 ---
 
-## 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=GABRIEL-SYS-COD&limit=5&theme=neon&combine_all_yearly_contributions=true)
+## 📂 Projects
+
+Here are some of the projects I've worked on:
+
+### [Mi Portafolio](https://gabriel-sys-cod.github.io/principal/)
+A personal portfolio showcasing my skills, projects, and contact information.
+
+### [Tienda Online](https://gabriel-sys-cod.github.io/tienda/)
+An online store page for a mini PC, including product details, images, and customer reviews.
+
+### [Restaurante Sant Grial](https://gabriel-sys-cod.github.io/restaurante/)
+A website for a retro-themed restaurant with sections for the menu, quality, and daily specials.
+
+### [Formularios HTML](https://gabriel-sys-cod.github.io/formularios/)
+A collection of interactive forms demonstrating various HTML input elements.
 
 ---
 
-## ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+## 🎓 Education
+
+- **2018 - 2022:** Bachelor's in Computer Science, Universidad Tecnológica
+- **2022:** Full Stack Web Development Certification, Academia de Desarrollo Web
+- **2023:** DevOps Specialization, Instituto de Tecnologías Cloud
 
 ---
 
-## 👁️ Visitors:
-[![](https://visitcount.itsvg.in/api?id=GABRIEL-SYS-COD&icon=9&color=1)](https://visitcount.itsvg.in)
+## 💬 Let's Collaborate
+
+I'm always open to new projects, collaborations, and learning opportunities. Feel free to reach out to me via:
+
+- Email: gerson.cod1001@gmail.com
+- Phone: +34 600.000.000
 
 ---
 
-## ☕ Support Me:
-<p>
-  <a href="https://www.buymeacoffee.com/gabrielsyscod" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
-  </a>
-  <a href="https://ko-fi.com/gabrielsyscod" target="_blank">
-    <img src="https://img.shields.io/badge/Ko--fi-29abe0?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi">
-  </a>
-  <a href="https://coff.ee/gabrielsyscod" target="_blank">
-    <img src="https://img.shields.io/badge/Coff.ee-FF5E5B?style=for-the-badge&logo=coffee&logoColor=white" alt="Coff.ee">
-  </a>
-  <a href="https://paypal.me/gys026" target="_blank">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal">
-  </a>
-</p>
+## ☕ Support Me
+
+If you'd like to support my work, consider buying me a coffee:
+
+- [BuyMeACoffee](https://www.buymeacoffee.com/gabrielsyscod)
+- [Ko-fi](https://ko-fi.com/gabrielsyscod)
+- [Coff.ee](https://coff.ee/gabrielsyscod)
+- [PayPal](https://paypal.me/gys026)
 
 ---
 
-<!-- Proudly created with ❤️ by Gabriel using GPRM (https://gprm.itsvg.in) -->
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GABRIEL-SYS-COD&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=GABRIEL-SYS-COD&theme=shadow_blue&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GABRIEL-SYS-COD&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GABRIEL-SYS-COD&theme=neon&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+## 🔝 Top Contributed Repo
+
+![Top Repo](https://github-contributor-stats.vercel.app/api?username=GABRIEL-SYS-COD&limit=5&theme=neon&combine_all_yearly_contributions=true)
+
+---
+
+## ✍️ Random Dev Quote
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+## 👁️ Visitors
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=GABRIEL-SYS-COD&icon=9&color=1)
+
+---
+
+<!-- Proudly crafted with ❤️ by Gabriel using GPRM (https://gprm.itsvg.in) -->
