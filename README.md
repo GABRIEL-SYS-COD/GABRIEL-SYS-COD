@@ -28,4 +28,95 @@
   <a href="https://www.leetcode.com/gabriel-sys-cod/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-00599C?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
-  <a href="https://gabriel-sys-cod.gith
+  <a href="https://gabriel-sys-cod.github.io/principal/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portafolio-1E40AF?style=for-the-badge&logo=github&logoColor=white" alt="Portafolio" />
+  </a>
+  <a href="https://github.com/GABRIEL-SYS-COD" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<h2 align="center" style="color:#0ff;">💻 Tecnologías</h2>
+
+<p align="center" style="color:#99ddff; max-width:600px; margin:auto;">
+  <b>Frontend:</b> HTML5 · CSS3 · JavaScript · React (aprendiendo)<br/>
+  <b>Backend:</b> Node.js · SQL · Python (en aprendizaje)<br/>
+  <b>Herramientas:</b> Git · Docker · CLI (en aprendizaje)
+</p>
+
+---
+
+<h2 align="center" style="color:#0ff;">📂 Proyectos destacados</h2>
+
+<p align="center" style="color:#99ddff; max-width:600px; margin:auto;">
+  🌐 <a href="https://gabriel-sys-cod.github.io/principal/" target="_blank">Portafolio Personal</a><br/>
+  🛒 <a href="https://gabriel-sys-cod.github.io/tienda/" target="_blank">Tienda Online</a><br/>
+  🍽️ <a href="https://gabriel-sys-cod.github.io/restaurante/" target="_blank">Restaurante Sant Grial</a><br/>
+  📝 <a href="https://gabriel-sys-cod.github.io/formularios/" target="_blank">Formularios HTML</a>
+</p>
+
+---
+
+<h2 align="center" style="color:#0ff;">💬 ¡Colaboremos!</h2>
+
+<p align="center" style="color:#99ddff;">
+  📧 gerson.cod1001@gmail.com<br/>
+  📞 <a href="https://call.whatsapp.com/voice/SRBlpERFfSVjQWI0GmhImB" style="color:#99ddff;">WhatsApp voice call</a>
+</p>
+
+---
+
+<h2 align="center" style="color:#0ff;">☕ Apóyame</h2>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/gabrielsyscod" target="_blank">
+    <img src="https://img.shields.io/badge/-BuyMeACoffee-2563EB?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="BuyMeACoffee" />
+  </a>
+  <a href="https://ko-fi.com/gabrielsyscod" target="_blank">
+    <img src="https://img.shields.io/badge/-Ko--fi-1E40AF?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
+  </a>
+  <a href="https://coff.ee/gabrielsyscod" target="_blank">
+    <img src="https://img.shields.io/badge/-Coff.ee-1E3A8A?style=for-the-badge&logo=coffee&logoColor=white" alt="Coff.ee" />
+  </a>
+  <a href="https://paypal.me/gys026" target="_blank">
+    <img src="https://img.shields.io/badge/-PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
+  </a>
+</p>
+
+---
+
+<h2 align="center" style="color:#0ff;">📊 Estadísticas de GitHub</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GABRIEL-SYS-COD&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Lenguajes principales" />
+</p>
+
+---
+
+<h2 align="center" style="color:#0ff;">🏆 Trofeos de GitHub</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GABRIEL-SYS-COD&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trofeos GitHub" />
+</p>
+
+---
+
+<h2 align="center" style="color:#0ff;">✍️ Frase de desarrollo aleatoria</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Frase de desarrollo" />
+</p>
+
+---
+
+<h2 align="center" style="color:#0ff;">👁️ Visitantes</h2>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/GABRIEL-SYS-COD/count.svg" alt="Visitor Count" />
+</p>
+
+---
+
+<p align="center" style="color:#0ff;">Creado con ❤️ por Gabriel</p>
