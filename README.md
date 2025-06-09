@@ -112,7 +112,8 @@ Si quieres apoyar mi trabajo, puedes invitarme a un café:
 
 ## 👁️ Visitantes
 
-![Visitantes](https://visitcount.itsvg.in/api?id=GABRIEL-SYS-COD&icon=9&color=1)
+![Visitor Count](https://profile-counter.glitch.me/GABRIEL-SYS-COD/count.svg)
+
 
 ---
 
