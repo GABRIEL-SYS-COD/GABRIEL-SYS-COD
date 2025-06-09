@@ -67,10 +67,6 @@ Colección de formularios interactivos con distintos elementos de entrada.
 
 ## 🎓 Formación
 
-- **2018 - 2022:** Grado en Informática, Universidad Tecnológica  
-- **2022:** Certificación Full Stack Web Development, Academia de Desarrollo Web  
-- **2023:** Especialización en DevOps, Instituto de Tecnologías Cloud  
-
 ---
 
 ## 💬 ¡Colaboremos!
@@ -105,13 +101,9 @@ Si quieres apoyar mi trabajo, puedes invitarme a un café:
 
 ## 🏆 Trofeos de GitHub
 
-![Trofeos](https://github-profile-trophy.vercel.app/?username=GABRIEL-SYS-COD&theme=neon&no-frame=false&no-bg=true&margin-w=4)
-
 ---
 
 ## 🔝 Repositorios con más contribuciones
-
-![Repositorios destacados](https://github-contributor-stats.vercel.app/api?username=GABRIEL-SYS-COD&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
 ---
 
