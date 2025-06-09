@@ -119,4 +119,7 @@
 
 ---
 
-<p align="center" style="color:#0ff;">Creado con ❤️ por Gabriel</p>
+<p align="center" style="color:#0ff;">
+  "Conocimiento y creación, un camino sin fin — por Gabriel"
+</p>
+
