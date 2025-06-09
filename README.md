@@ -91,9 +91,6 @@ Si quieres apoyar mi trabajo, puedes invitarme a un café:
 
 ## 📊 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GABRIEL-SYS-COD&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)
-
-![Rachas de GitHub](https://nirzak-streak-stats.vercel.app/?user=GABRIEL-SYS-COD&theme=shadow_blue&hide_border=false)
 
 ![Lenguajes principales](https://github-readme-stats.vercel.app/api/top-langs/?username=GABRIEL-SYS-COD&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
