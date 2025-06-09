@@ -1,4 +1,5 @@
-<body>
+<body style="background:#000; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+
   <h1 align="center" style="color:#0ff; font-weight:bold; font-size:3rem;">
     👋 Hola, soy Gabriel
   </h1>
@@ -14,7 +15,6 @@
   <hr style="border-color:#0af; width:60%; margin: 30px auto;" />
 
   <h2 align="center" style="color:#0ff; font-weight:bold; font-size:2rem;">🧭 Sobre mí</h2>
-
   <p align="center" style="color:#99ddff; max-width:600px; margin:auto; font-size:1.05rem; line-height:1.5;">
     📍 Vilafranca del Penedès, Cataluña, España<br />
     🌍 Modalidad: Presencial · Híbrido · Remoto<br />
@@ -44,9 +44,9 @@
 
   <h2 align="center" style="color:#0ff; font-weight:bold; font-size:2rem;">💻 Tecnologías</h2>
   <p align="center" style="color:#99ddff; max-width:600px; margin:auto; font-size:1.05rem; line-height:1.5;">
-    <b>Frontend:</b> HTML5 · CSS3 · JavaScript · React (aprendiendo)<br />
-    <b>Backend:</b> Node.js · SQL · Python (en aprendizaje)<br />
-    <b>Herramientas:</b> Git · Docker · CLI (en aprendizaje)
+    <b>⚛️ Frontend:</b> HTML5 · CSS3 · JavaScript · React (aprendiendo)<br />
+    <b>⚙️ Backend:</b> Node.js · SQL · Python (en aprendizaje)<br />
+    <b>🛠️ Herramientas:</b> Git · Docker · CLI (en aprendizaje)
   </p>
 
   <hr style="border-color:#0af; width:60%; margin: 30px auto;" />
