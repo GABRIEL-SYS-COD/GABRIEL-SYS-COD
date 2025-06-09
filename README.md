@@ -119,7 +119,8 @@
 
 ---
 
-<p align="center" style="color:#0ff;">
+<h2 align="center" style="color:#0ff; font-size:2.5rem; font-weight:bold;">
   "Conocimiento y creación, un camino sin fin — por Gabriel"
-</p>
+</h2>
+
 
