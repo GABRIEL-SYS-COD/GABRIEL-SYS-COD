@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Gabriel</h1>
-<h3 align="center">🚀 Desarrollador Full Stack Junior | Explorador Web y Multiplataformas</h3>
+<h3 align="center">🚀 Desarrollador Full Stack Junior </h3>
 
 <p align="center">
   ¡Hola! Soy Gabriel, un desarrollador apasionado creando soluciones digitales desde el corazón de Cataluña. Me especializo en construir aplicaciones web modernas, responsivas y enfocadas en código limpio, mantenible y diseño centrado en el usuario.
