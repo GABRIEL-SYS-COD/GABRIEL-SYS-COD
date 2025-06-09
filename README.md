@@ -1,5 +1,5 @@
-<body style="align:center">
-<p align="center">
+<body >
+<p align="center" style="align:center">
   <h1 style="color:#0ff;">👋 Hola, soy Gabriel</h1>
   <h3 style="color:#0ff;">🚀 Desarrollador Full Stack Junior</h3>
   <p style="color:#aaf; max-width:600px; margin:auto;">
