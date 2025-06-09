@@ -1,133 +1,130 @@
-<h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">🚀 Junior Full Stack Developer | Web & Multiplatform Explorer</h3>
+<h1 align="center">Hola 👋, soy Gabriel</h1>
+<h3 align="center">🚀 Desarrollador Full Stack Junior | Explorador Web y Multiplataformas</h3>
 
 <p align="center">
-  Hello! I'm Gabriel, a passionate developer crafting digital solutions from the heart of Catalonia. I specialize in building modern, responsive web applications with a focus on clean, maintainable code and user-centered design.
+  ¡Hola! Soy Gabriel, un desarrollador apasionado creando soluciones digitales desde el corazón de Cataluña. Me especializo en construir aplicaciones web modernas, responsivas y enfocadas en código limpio, mantenible y diseño centrado en el usuario.
 </p>
 
 ---
 
-## 🧭 About Me
+## 🧭 Sobre mí
 
-I'm a developer eager to learn and grow, with hands-on experience in both frontend and backend technologies. I thrive in collaborative environments and am always looking for opportunities to contribute to innovative projects.
+Soy un desarrollador con ganas de aprender y crecer, con experiencia práctica en tecnologías tanto frontend como backend. Me gusta trabajar en entornos colaborativos y siempre busco oportunidades para contribuir en proyectos innovadores.
 
-- 📍 Based in: Vilafranca del Penedès, Catalonia, Spain
-- 🌍 Open to: On-site, Hybrid, or Remote roles
-- 💼 Available for: Full-time, Part-time, Contract, Internship, Temporary
-- 📅 Start date: Flexible — exploring opportunities
-
----
-
-## 🔗 Connect with Me
-
-- [LinkedIn](https://linkedin.com/in/gersongz/)
-- [LeetCode](https://www.leetcode.com/gabriel-sys-cod/)
-- [Portfolio](https://gabriel-sys-cod.github.io/principal/)
-- [GitHub](https://github.com/GABRIEL-SYS-COD)
+- 📍 Ubicación: Vilafranca del Penedès, Cataluña, España  
+- 🌍 Disponible para: Presencial, híbrido o remoto  
+- 💼 Tipos de empleo: Jornada completa, parcial, contrato, prácticas o temporal  
+- 📅 Fecha de inicio: Flexible — explorando nuevas oportunidades  
 
 ---
 
-## 💻 Tech Stack
+## 🔗 Conecta conmigo
 
-**Frontend:**
-
-- HTML5
-- CSS3
-- JavaScript
-- React (Learning in progress)
-
-**Backend:**
-
-- Node.js (Learning in progress)
-- SQL (Learning in progress)
-- Python (Learning in progress)
-
-**Tools:**
-
-- Git (Learning in progress)
-- Docker (Learning in progress)
-- CLI (Learning in progress)
+- [LinkedIn](https://linkedin.com/in/gersongz/)  
+- [LeetCode](https://www.leetcode.com/gabriel-sys-cod/)  
+- [Portafolio](https://gabriel-sys-cod.github.io/principal/)  
+- [GitHub](https://github.com/GABRIEL-SYS-COD)  
 
 ---
 
-## 📂 Projects
+## 💻 Tecnologías
 
-Here are some of the projects I've worked on:
+**Frontend:**  
+- HTML5  
+- CSS3  
+- JavaScript  
+- React (en aprendizaje)
 
-### [Mi Portafolio](https://gabriel-sys-cod.github.io/principal/)
-A personal portfolio showcasing my skills, projects, and contact information.
+**Backend:**  
+- Node.js (en aprendizaje)  
+- SQL (en aprendizaje)  
+- Python (en aprendizaje)
 
-### [Tienda Online](https://gabriel-sys-cod.github.io/tienda/)
-An online store page for a mini PC, including product details, images, and customer reviews.
-
-### [Restaurante Sant Grial](https://gabriel-sys-cod.github.io/restaurante/)
-A website for a retro-themed restaurant with sections for the menu, quality, and daily specials.
-
-### [Formularios HTML](https://gabriel-sys-cod.github.io/formularios/)
-A collection of interactive forms demonstrating various HTML input elements.
-
----
-
-## 🎓 Education
-
-- **2018 - 2022:** Bachelor's in Computer Science, Universidad Tecnológica
-- **2022:** Full Stack Web Development Certification, Academia de Desarrollo Web
-- **2023:** DevOps Specialization, Instituto de Tecnologías Cloud
+**Herramientas:**  
+- Git (en aprendizaje)  
+- Docker (en aprendizaje)  
+- CLI (en aprendizaje)
 
 ---
 
-## 💬 Let's Collaborate
+## 📂 Proyectos
 
-I'm always open to new projects, collaborations, and learning opportunities. Feel free to reach out to me via:
+Algunos proyectos en los que he trabajado:
 
-- Email: gerson.cod1001@gmail.com
-- Phone: +34 600.000.000
+### [Portafolio Personal](https://gabriel-sys-cod.github.io/principal/)  
+Mi página personal para mostrar habilidades, proyectos y contacto.
 
----
+### [Tienda Online](https://gabriel-sys-cod.github.io/tienda/)  
+Página de tienda online para un mini PC, con detalles de productos, imágenes y opiniones.
 
-## ☕ Support Me
+### [Restaurante Sant Grial](https://gabriel-sys-cod.github.io/restaurante/)  
+Sitio web para restaurante de estilo retro, con menú, calidad y especiales del día.
 
-If you'd like to support my work, consider buying me a coffee:
-
-- [BuyMeACoffee](https://www.buymeacoffee.com/gabrielsyscod)
-- [Ko-fi](https://ko-fi.com/gabrielsyscod)
-- [Coff.ee](https://coff.ee/gabrielsyscod)
-- [PayPal](https://paypal.me/gys026)
+### [Formularios HTML](https://gabriel-sys-cod.github.io/formularios/)  
+Colección de formularios interactivos con distintos elementos de entrada.
 
 ---
 
-## 📊 GitHub Stats
+## 🎓 Formación
+
+- **2018 - 2022:** Grado en Informática, Universidad Tecnológica  
+- **2022:** Certificación Full Stack Web Development, Academia de Desarrollo Web  
+- **2023:** Especialización en DevOps, Instituto de Tecnologías Cloud  
+
+---
+
+## 💬 ¡Colaboremos!
+
+Estoy abierto a proyectos, colaboraciones y nuevas experiencias. Puedes contactarme por:
+
+- Email: gerson.cod1001@gmail.com  
+- Teléfono: +34 600 000 000  
+
+---
+
+## ☕ Apóyame
+
+Si quieres apoyar mi trabajo, puedes invitarme a un café:  
+
+- [BuyMeACoffee](https://www.buymeacoffee.com/gabrielsyscod)  
+- [Ko-fi](https://ko-fi.com/gabrielsyscod)  
+- [Coff.ee](https://coff.ee/gabrielsyscod)  
+- [PayPal](https://paypal.me/gys026)  
+
+---
+
+## 📊 Estadísticas de GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GABRIEL-SYS-COD&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=GABRIEL-SYS-COD&theme=shadow_blue&hide_border=false)
+![Rachas de GitHub](https://nirzak-streak-stats.vercel.app/?user=GABRIEL-SYS-COD&theme=shadow_blue&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GABRIEL-SYS-COD&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GABRIEL-SYS-COD&theme=neon&no-frame=false&no-bg=true&margin-w=4)
+![Lenguajes principales](https://github-readme-stats.vercel.app/api/top-langs/?username=GABRIEL-SYS-COD&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
-## 🔝 Top Contributed Repo
+## 🏆 Trofeos de GitHub
 
-![Top Repo](https://github-contributor-stats.vercel.app/api?username=GABRIEL-SYS-COD&limit=5&theme=neon&combine_all_yearly_contributions=true)
-
----
-
-## ✍️ Random Dev Quote
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Trofeos](https://github-profile-trophy.vercel.app/?username=GABRIEL-SYS-COD&theme=neon&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
-## 👁️ Visitors
+## 🔝 Repositorios con más contribuciones
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=GABRIEL-SYS-COD&icon=9&color=1)
+![Repositorios destacados](https://github-contributor-stats.vercel.app/api?username=GABRIEL-SYS-COD&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
 ---
 
-<!-- Proudly crafted with ❤️ by Gabriel using GPRM (https://gprm.itsvg.in) -->
+## ✍️ Frase de desarrollo aleatoria
+
+![Frase de desarrollo](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+## 👁️ Visitantes
+
+![Visitantes](https://visitcount.itsvg.in/api?id=GABRIEL-SYS-COD&icon=9&color=1)
+
+---
+
+<!-- Creado con ❤️ por Gabriel usando GPRM (https://gprm.itsvg.in) -->
