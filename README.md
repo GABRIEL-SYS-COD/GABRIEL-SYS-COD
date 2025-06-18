@@ -4,7 +4,7 @@
     👋 Hola, soy Gabriel
   </h1>
   <h3 align="center" style="color:#0af; font-weight:600; font-size:1.8rem;">
-    🚀 Desarrollador Full Stack Junior
+    🚀 Desarrollador  Junior
   </h3>
 
   <p align="center" style="color:#aaf; max-width:600px; margin:auto; font-size:1.1rem; line-height:1.6;">
